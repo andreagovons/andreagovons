@@ -45,10 +45,13 @@ Lab includes:
 # Skills
 
 Network Security  
-Firewall Configuration  
+Firewall Configuration (OPNsense)  
 VLAN Segmentation  
-Reconnaissance Automation  
-Python Security Tools  
+Active Directory Lab Environments  
+Network Reconnaissance and Service Enumeration  
+Penetration Testing Lab Workflows  
+Python Security Automation  
+Nmap Scanning and Analysis  
 AI-assisted Security Analysis
 
 ---
